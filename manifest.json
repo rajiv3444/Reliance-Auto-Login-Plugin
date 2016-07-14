@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Reliance Login Auto Connect",
+  "description": "This extension will try to auto login for reliance broadband. Developer : Rajiv Bhardwaj (8000-940-940)",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "reliance_icon.png"
+  },
+  
+  "content_scripts": [
+    {
+      "matches": ["http://reliancebroadband.co.in/reliance/startportal_isg.do", "http://reliancebroadband.co.in/reliance/login.do?action=doLoginSubmit"],
+      "js": ["page.js"],
+	  "run_at": "document_end"
+    }
+  ],
+  
+  "permissions": [
+    "activeTab"
+  ]
+}
