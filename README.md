@@ -5,7 +5,7 @@ steps to use:
 
 1. Download and keep all these files in any foder any and keep at any safe locaiton in your system.
 Chnange the username and password in the file page.js
-2. Go to browsers setting and add this plugin by simply proviing the path of this folder.
+2. Go to browsers setting and add this plugin by simply providing the path of this folder.
 3. After adding to browser verify it should be enabled.
 4. Restart the browser.
 
