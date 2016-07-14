@@ -3,8 +3,8 @@ urlRelianceLogin = "http://reliancebroadband.co.in/reliance/startportal_isg.do";
 //urlRelianceLogin = "http://192.168.0.4/PMS/Account/Logout";
 urlToTestInternet = "http://www.w3schools.com/angular/customers.php";//this url may be any url which allowes cross-origin call
 _isInternetConnectionAvailable = false;
-userName = '388798464962';
-password = '34443380';
+userName = '12345679';
+password = '12345679';
 
 _waitTime1sec = 1000;
 _waitTime2sec = 2000;
