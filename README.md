@@ -1,7 +1,8 @@
 # RelianceAutoLoginPlugin
-Reliance broadband auto login attempt plugin which will continuously keep checking the internet connection and will try to login if internet connection is lost. 
+As the reliance broadband forcely expires the session in 24 hours and interrupts th ongoing work specially the downloads.
+This plugin *Reliance broadband auto login plugin* will keep checking the internet connection and will try to login with specified credentials if internet connection is lost. 
 
-steps to use:
+# steps to use:
 
 1. Download and keep all these files in any foder any and keep at any safe locaiton in your system.
 Chnange the username and password in the file page.js
