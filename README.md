@@ -4,10 +4,10 @@ This plugin *(Reliance broadband auto login plugin)* will keep checking the inte
 
 # steps to use:
 
-1. Download and keep all these files in any foder any and keep at any safe locaiton in your system.
+1. Download and keep all these files in any foder/locaiton in your machine.
 Chnange the username and password in the file page.js
 2. Go to browsers setting and add this plugin by simply providing the path of this folder.
-3. After adding to browser verify it should be enabled.
+3. After adding this plugin to browser, verify it should be enabled.
 4. Restart the browser.
 
 Thats it !!!
