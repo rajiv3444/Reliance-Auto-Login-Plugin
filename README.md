@@ -12,7 +12,7 @@ Chnange the username and password in the file page.js
 Thats it !!!
 Enjoy
 
-I alayas welcome your suggestion.
+Your suggestions are welcome.
 
 Reards
 Rajiv Bhardwaj
