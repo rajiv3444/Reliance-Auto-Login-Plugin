@@ -1,3 +1,7 @@
+Reliance Auto Login Plugin
+Reliance Broadband Auto Login Plugin
+
+
 # RelianceAutoLoginPlugin
 As the reliance broadband forcely expires the session in 24 hours and interrupts th ongoing work specially the downloads.
 So tried to create a small plugin. It may not be perfact and may require enhancement, So your suggestions are always welcome.
