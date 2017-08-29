@@ -20,6 +20,7 @@ Enjoy
 
 Your suggestions are welcome.
 
-Reards
+Regards
 Rajiv Bhardwaj
 Mob: 8000-940-940
+mail: rajiv3444@gmail.com
